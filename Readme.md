@@ -31,6 +31,3 @@ python main.py
 ```
 3. **Usage:**
     When prompted, enter a year (e.g., 2024) to see the winners in the terminal.
-
-
-
